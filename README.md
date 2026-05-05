@@ -59,3 +59,7 @@ True    ← "aaaaaa4uhi"  (a повторюється 6 разів, 4, будь-
 True    ← "4uhi"        (a — 0 разів, 4, u, hi)
 False   ← "meow"        (не відповідає патерну)
 ```
+
+## Скріншоти
+
+![My Image](image.png)
